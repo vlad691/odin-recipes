@@ -4,4 +4,5 @@ Lists;
 Links;
 Text manipulation;
 git usage;
+css;
 The project is to build a  simple website with some recipes.

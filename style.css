@@ -1,0 +1,7 @@
+.title {font-family:"Courier New", Courier, monospace;
+font-weight: 800; font-size: 50px;
+text-align: center;}
+.list {font-family: 'Courier New', Courier, monospace;
+font-size: 30px; font-weight: 500;}
+.body {background-color: rgb(255, 125, 125);}
+.image {width:600px; height:auto;}
